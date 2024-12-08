@@ -1,10 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# ALX Listing App
 
-## Getting Started
+## Description
+
+This is a simple booking management system derived from the AirBnB system, designed to meet usability needs, ease of use, and flexibility. It features a reusable component-based structure for creating dynamic and scalable web applications.
+
+## Project Structure
+
+- **components/common/**: Contains reusable UI components (e.g., `Card`, `Button`).
+- **interfaces/**: Defines TypeScript interfaces for props and data structures.
+- **constants/**: Stores reusable constants (e.g., API URLs, default images).
+- **public/assets/**: Contains static assets like images and SVG files.
+
+## Setup instructions
 
 First, run the development server:
 
 ```bash
+clone the repository with  `git clone https://github.com/AckimJnr/alx-listing-app.git`
+cd alx-listing-app
+npm install (to install project dependencies)
 npm run dev
 # or
 yarn dev
