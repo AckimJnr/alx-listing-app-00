@@ -11,6 +11,16 @@ This is a simple booking management system derived from the AirBnB system, desig
 - **constants/**: Stores reusable constants (e.g., API URLs, default images).
 - **public/assets/**: Contains static assets like images and SVG files.
 
+---
+
+## Project Goals
+
+- Develop a functional and aesthetically pleasing booking management system.
+- Provide a seamless user experience with an intuitive UI design.
+- Implement robust backend functionality for managing property listings, bookings, and users.
+
+---
+
 ## Setup instructions
 
 First, run the development server:
